@@ -17,6 +17,12 @@ Use of each file
 
 How to run 
 	1.) Double Click on the entertainment_center.py
+
+How to open and run with IDLE 
+	1.) Open IDLE 
+	2.) Once the IDLE is running , click on the menu bar and select "Open" from "File" Menu.
+	3.) In the File Dialog box,navigate to the path where the file "entertainment_center.py" is present and then open it
+	4.) Press F5 or select from menu bar Run Module present inside "Run" Menu
 	
 What to expect when the above program runs
 	1.) The default browser will open and it will display the list of movies. Click on the image and the trailler 
